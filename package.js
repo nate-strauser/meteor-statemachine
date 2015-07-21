@@ -1,7 +1,7 @@
 Package.describe({
 	name:"natestrauser:statemachine",
-    summary: "Javascript State Machine packaged for meteor",
-  version: "0.1.1",
+  summary: "Javascript State Machine packaged for meteor",
+  version: "0.1.2",
   git: "https://github.com/nate-strauser/meteor-statemachine.git"
 });
 
